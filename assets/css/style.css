@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap");
+
+body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  background-color: #ececec;
+  background-image: url(/assets/images/bg.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  background-color: #fff;
+  width: 500px;
+  height: 400px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px #201a2b;
+}
+
+h1 {
+  font-family: "Luckiest Guy", cursive;
+  font-size: 38px;
+  color: #5f3e91;
+  letter-spacing: 1px;
+  margin-bottom: 0px;
+}
+
+hr {
+  width: 90%;
+  margin-bottom: 20px;
+  height: 1px;
+  background-color: #5f3e91;
+  border: none;
+}
+
+.card-body {
+  padding: 15px;
+  text-align: center;
+}
+
+.card-text {
+  background-color: #dac7ff;
+  border-radius: 3px;
+  padding: 5%;
+  height: 10rem;
+  width: 85%;
+  margin: auto;
+  font-size: 16px;
+}
+
+.btn {
+  font-family: "Luckiest Guy", cursive;
+  letter-spacing: 1px;
+  width: 95%;
+  background-color: #5f3e91;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 10px 20px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #452d68;
+}
+
+b {
+  color: #5f3e91;
+}
+
+a {
+  text-decoration: none;
+  color: #5f3e91;
+}
+
+a:hover {
+    color: #452d68
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
