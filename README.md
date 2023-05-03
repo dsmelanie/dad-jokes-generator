@@ -3,7 +3,7 @@
 
 ## 🖱️ | Link
 
-- Live Site URL : [Click](https://rdsmelanie.github.io/dad-jokes-generator)
+- Live Site URL : [Click](https://dsmelanie.github.io/dad-jokes-generator)
 
 ---
 
@@ -17,4 +17,4 @@
 
 ## 🖋️ | Author
 
-- GitHub - [@rdsmelanie](https://github.com/rdsmelanie)
+- GitHub - [@dsmelanie](https://github.com/dsmelanie)
